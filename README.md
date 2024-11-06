@@ -57,5 +57,5 @@ python train_ms.py -c configs/vctk_base.json -m vctk_base
 ## Inference Example
 See [inference.ipynb](inference.ipynb)
 
-##Google colab link 
+## Google colab link 
 https://colab.research.google.com/drive/1Ff8wokT-12EuYKZAXtPu_mAIf5bLXQYS?usp=sharing
